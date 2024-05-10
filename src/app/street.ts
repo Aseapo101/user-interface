@@ -1,0 +1,2 @@
+xexport interface Street {
+}

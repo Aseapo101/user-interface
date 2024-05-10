@@ -1,0 +1,23 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.mat-toolbar {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3.5rem;
+    width: 100%;
+    background-color: rgb(238, 163, 163);
+    border-radius: 15px;
+}
+
+  .toolbar-title
+   {
+    margin-left: 30%;
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+  }
+  
